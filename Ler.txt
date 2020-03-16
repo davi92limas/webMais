@@ -1,0 +1,40 @@
+Projeto WebMais:
+
+
+Projeto desenvolvido por Davi Limas Alexandre;
+
+
+Tecnologias:
+
+Frontend : Javascrip,Css,HTML,Bootstrap.
+
+Backend: Node JS,Express.
+
+
+Para subir a aplicação:
+
+Passo 1:
+Abrir a pasta “webMais”;
+
+Passo 2:
+Abril a pasta no CMD com o caminho da pasta,
+Exemplo : “cd D:\GitProjetos\webMais\webMais”;
+
+Passo 3:
+Dar o comando: “bower install”
+
+Passo 4:
+Abri o “Index.html” .
+
+
+
+Ps: Para rodar o bower basta só estalar o “NPM”.
+Basta instalar o node, e depois rodar o comando “bower install”.
+
+
+Links:
+download do nodeJS: 
+https://nodejs.org/en/ 
+
+
+

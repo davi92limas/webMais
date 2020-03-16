@@ -195,8 +195,6 @@ class UserController {
             user.lar,
             user.pro,
             user.gender,
-            // user.birth,
-            // user.country,
             user.photo
 
         );

@@ -10,7 +10,6 @@ class User {
         this._lar = lar;
         this._pro = pro;
         this._gender = gender;
-        // this._birth = birth;
         this._country = country;
         this._password = password;
         this._photo = photo;
@@ -52,9 +51,6 @@ class User {
         return this._gender;
     }
 
-    // get birth() {
-    //     return this._birth;
-    // }
 
     get country() {
         return this._country;
